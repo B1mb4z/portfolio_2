@@ -1,6 +1,6 @@
 # 📌 Portfólio Profissional - Elvin Avelino
 
-![Preview do Portfólio](https://via.placeholder.com/800x500.png?text=Preview+do+Portf%C3%B3lio) <!-- Substitua por uma imagem real do seu projeto -->
+![Preview do Portfólio](https://b1mb4z.github.io/portfolio_2/) <!-- Substitua por uma imagem real do seu projeto -->
 
 Portfólio pessoal moderno e responsivo desenvolvido para showcase de projetos acadêmicos e profissionais na área de Engenharia Informática.
 
